@@ -1,0 +1,158 @@
+#title
+{
+	background-color:#FF8D29;
+}
+.helping{
+	color:ghostwhite;
+}
+.pro{
+	color:#5534A5 ;
+	font-family:"Montserrat-Black";
+}
+.rate{
+	font-size:1.5rem;
+}
+.row{
+	text-align:right;
+}
+.desktop{
+	width:500px;
+
+}
+.finance{
+	width:100%;
+}
+body{
+	font-feature-settings:"Montserrat";
+}
+h1{
+	font-family:"Montserrat-Black";
+	font-size: 3.5rem;
+	color: black;
+
+	line-height: 1.5;
+}
+h2{
+	font-family:"Montserrat-Bold";
+	font-size: 3rem;
+	line-height: 1.5;
+}
+h3{
+	font-family:"Montserrat-Bold";
+}
+.container-fluid{
+	padding: 3% 2%;
+}
+.button
+{
+	padding:100px;
+}
+.navbar-brand
+{
+	font-size: 2.5rem;
+	font-family: Ubuntu;
+	font-weight: bold;
+}
+.nav-item{
+	padding: 0 5px;
+}
+.downl-button{
+	margin: 5% 3% 5% 0;
+}
+#features{
+	Padding: 10% 15%;
+	position: relative;
+}
+.Easy{
+	text-align: center;
+	padding: 5%;
+}
+.icon{
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+.icon:hover{
+	color: #ff4568;
+}
+.downl{
+	padding-left: 2px;
+}
+#testimonials{
+	
+	text-align: center;
+	 background-color: #ef8172;
+	 color: white;
+}
+.dogiii{
+	width: 10%;
+	border-radius: 100%;
+	margin: 20px;
+}
+#press{
+	background-color: #ef8172;
+	text-align: center;
+	padding-bottom: 3%;
+}
+.press-logo{
+	width:10%;
+	margin: 20px 50px 20px;
+}
+.carousel-item{
+	padding: 7% 15%;
+}
+.card{
+	padding: 2%;
+	margin: 10px 20px 10px;
+	text-align: center;
+}
+#pricing
+{
+ padding: 100px;
+
+}
+@media(max-width: 1018px){
+	.image-title{
+		position: static;
+		transform: rotate(0);
+	}
+#title{
+	text-align: center;
+}
+}
+#cta{
+	font-family:"Montserrat-Black";
+	background-color:#ff4c68;
+	text-align: center;
+	border: 100%;
+	padding: 100px 20px 100px;
+}
+#footer{
+	text-align: center;
+	padding: 50px 20px 50px;
+}
+}
+.life{
+	font-family:"Montserrat-Black";
+	font-size: 3rem;
+	color: white;
+	padding: 50px 25px 50px;
+}
+.fit{
+	margin: 20px 10px 20px;
+}
+#products{
+	background-color:white;
+	color: red;
+	text-align: Center;
+	font-size: 50px;
+}
+/*--LOan status--*/
+
+.Request{
+    width:50%;
+margin-bottom:3%;
+}
+.loan{
+    color:#fd7e14;
+}
+
